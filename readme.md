@@ -1,6 +1,6 @@
 # Proyek Praktisi Diagnosis Bearing · Tim Lorem Ipsum
 
-**Kasus:** [4 Diagnosis Bearing](https://github.com/nurhikam/mkb-ml-project/blob/main/kasus/04-diagnosis-bearing/brief.md) · **Aplikasi:** [tautan aplikasi](https://proyekpraktisikerusakanbearing-drwvxutgx7jgafczueygac.streamlit.app/) · **Video:** [tautan video]
+**Kasus:** [4 Diagnosis Bearing](https://github.com/nurhikam/mkb-ml-project/blob/main/kasus/04-diagnosis-bearing/brief.md) · **Aplikasi:** [tautan aplikasi](https://proyekpraktisikerusakanbearing-drwvxutgx7jgafczueygac.streamlit.app/) · **Video:** [tautan video](https://youtu.be/ZGGkjnfCaIQ)
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
@@ -61,7 +61,7 @@ Dari sisi kebutuhan operasional, pendekatan ini memungkinkan setiap data mempero
 ```bash
 pip install -r requirements.txt
 uvicorn api.main:app --reload   # API
-streamlit run app.py                # aplikasi
+streamlit run app.py            # aplikasi
 ```
 
 ## Struktur repositori
