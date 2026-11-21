@@ -4,8 +4,8 @@
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
-| Mehtar Raditya Daniswara Susanto | 2400744 | Membuat Aplikasi |
-| Ghaisan Malik Aljabbar | 2400333 | Membuat Model |
+| Mehtar Raditya Daniswara Susanto | 2400744 | API, Aplikasi, UI Streamlit, Model, Video Editting |
+| Ghaisan Malik Al Jabbar | 2400333 | Model, Revisi Model, Uji Aplikasi, Data, Laporan |
 
 ## Masalah dan pengguna
 
